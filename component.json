@@ -1,6 +1,6 @@
 {
-  "name": "raf",
-  "repo": "pgherveou/raf",
+  "name": "caf",
+  "repo": "pgherveou/caf",
   "description": "cancel request animation frame",
   "version": "0.0.1",
   "keywords": ["animate", "requestAnimationFrame", "performance"],
